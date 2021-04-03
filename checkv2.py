@@ -1,6 +1,7 @@
 import requests
 import re
 import time
+import os
 
 your_name = os.environ["YOUR_NAME"]
 your_pwd = os.environ["YOUR_PWD"]
